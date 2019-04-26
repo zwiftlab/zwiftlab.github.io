@@ -38,4 +38,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ### Testing link
 
-[Link to test page](../_posts/linear_model)
+[Link to test page](../_posts/linear_model.md)
